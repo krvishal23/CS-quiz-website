@@ -14,8 +14,7 @@ An interactive and responsive **Online Quiz Website** built using **HTML, CSS, a
 
 ## 🌐 Demo
 
-🔗 [Live Demo](#)  
-*(Replace `#` with your deployed website URL if available)*
+🔗https://krvishal23.github.io/CS-quiz-website/
 
 ## 📸 Screenshots
 <img width="1919" height="970" alt="Screenshot 2025-07-18 124559" src="https://github.com/user-attachments/assets/c7d8d6d2-4241-4a1c-a60c-f7995aaa3ffc" />
